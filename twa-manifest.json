@@ -1,0 +1,37 @@
+{
+  "packageId": "org.twa_languageforge",
+  "host": "languageforge.org",
+  "name": "Language Forge",
+  "launcherName": "LF",
+  "display": "fullscreen",
+  "themeColor": "#0A2440",
+  "navigationColor": "#000000",
+  "navigationColorDark": "#000000",
+  "navigationDividerColor": "#000000",
+  "navigationDividerColorDark": "#000000",
+  "backgroundColor": "#104060",
+  "enableNotifications": true,
+  "startUrl": "/app/projects",
+  "iconUrl": "https://languageforge.org/appManifest/images/lf-logo-circle-512-xxxxxhdpi.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "/home/palmtreefrb/Development/sil/test/android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://languageforge.org/appManifest/languageforge.manifest.json",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "orientation": "default",
+  "fingerprints": [],
+  "additionalTrustedOrigins": [],
+  "appVersion": "1"
+}
